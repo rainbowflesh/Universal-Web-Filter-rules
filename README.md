@@ -7,6 +7,11 @@
 
 订阅链接👇
 > https://github.com/isNijikawa/One-Of-Mega-uBlackList-List/blob/main/stupidCyberUtopia.txt
+> 
+> 大陆友好链接👇
+> https://cdn.jsdelivr.net/gh/isNijikawa/One-Of-Mega-uBlackList-List@main/stupidCyberUtopia.txt
+> 大陆友好下载*yetAnother.txt*链接
+> https://cdn.jsdelivr.net/gh/isNijikawa/One-Of-Mega-uBlackList-List@main/yetAnother.txt
 
-同时请订阅下面链接的内容
+同时推荐订阅下面链接的内容
 > https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt	
