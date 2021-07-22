@@ -12,7 +12,5 @@
 > https://github.com/isNijikawa/One-Of-Mega-uBlackList-List/blob/main/yetAnotherPart5.txt
 > https://github.com/isNijikawa/One-Of-Mega-uBlackList-List/blob/main/yetAnotherPart6.txt
 
-
 同时请订阅下面链接的内容
 > https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt	
-> 
