@@ -1,4 +1,4 @@
-# One-Of-Mega-uBlackList-List
+# Mega uBlackList List
 
 ## 一个超级巨大量的黑名单, 近5万5千条屏蔽网站
 ### 适用于 *uBlackList* 浏览器插件
@@ -20,3 +20,10 @@
 
 同时推荐订阅下面链接的内容
 > https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt	
+
+# Universal Web Filter rules
+
+## 个人采集的网页元素屏蔽规则
+### 适用于 *Ads Killer Plus* 浏览器插件
+
+直接在My Filter中导入文件*My Filter*即可
