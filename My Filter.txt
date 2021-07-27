@@ -1,0 +1,27 @@
+!!! 适用于Ads Killer Plus的屏蔽规则
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+stackoverflow.com###left-sidebar
+stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
+blog.csdn.net##.left-toolbox
+www.zhihu.com##.Pc-word:nth-of-type(34) > .Pc-word-card
+www.cnblogs.com##.forpc.aliyun.bannerbar
+www.cnblogs.com###cnblogs_b1
+cet4.koolearn.com###ztcgg
+cet4.koolearn.com###kyzb_layer
+||file.koolearn.com/*/*.*
+cet4.koolearn.com##.xqy_head
+cet4.koolearn.com##.xqy_item
+cet4.koolearn.com##.xqy_class
+cet4.koolearn.com##p:nth-of-type(8)
+cet4.koolearn.com##.gzh_show
+cet4.koolearn.com##.xqy_core_box.xqy_for.xqy_aud
+cet4.koolearn.com##.xqy_core_box.xqy_read
+cet4.koolearn.com##.xqy_column
+cet4.koolearn.com##.xqy_core_box.xqy_copyright
+cet4.koolearn.com##.footer_copyright
+cet4.koolearn.com##.core_main_keyword
+cet4.koolearn.com##.nav_tit
+cet4.koolearn.com##.xqy_core_time
+cet4.koolearn.com##p:nth-of-type(26)
+cet4.koolearn.com##.shengming
+cet4.koolearn.com##p:nth-of-type(25)
