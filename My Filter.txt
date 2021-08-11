@@ -1,3 +1,139 @@
+!!! 适用于AdsBlock 语法的屏蔽规则
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+stackoverflow.com###left-sidebar
+stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
+blog.csdn.net##.left-toolbox
+www.zhihu.com##.Pc-word:nth-of-type(34) > .Pc-word-card
+www.cnblogs.com##.forpc.aliyun.bannerbar
+www.cnblogs.com###cnblogs_b1
+cet4.koolearn.com###ztcgg
+cet4.koolearn.com###kyzb_layer
+||file.koolearn.com/*/*.*
+cet4.koolearn.com##.xqy_head
+cet4.koolearn.com##.xqy_item
+cet4.koolearn.com##.xqy_class
+cet4.koolearn.com##p:nth-of-type(8)
+cet4.koolearn.com##.gzh_show
+cet4.koolearn.com##.xqy_core_box.xqy_for.xqy_aud
+cet4.koolearn.com##.xqy_core_box.xqy_read
+cet4.koolearn.com##.xqy_column
+cet4.koolearn.com##.xqy_core_box.xqy_copyright
+cet4.koolearn.com##.footer_copyright
+cet4.koolearn.com##.core_main_keyword
+cet4.koolearn.com##.nav_tit
+cet4.koolearn.com##.xqy_core_time
+cet4.koolearn.com##p:nth-of-type(26)
+cet4.koolearn.com##.shengming
+cet4.koolearn.com##p:nth-of-type(25)
+blog.csdn.net###passportbox
+blog.csdn.net##.login-mark
+blog.csdn.net##.leftPop
+www.artstation.com##.tos-widget-inner
+baike.baidu.com###sl-player-el-video
+baike.baidu.com###J-sl-player-el-container
+chan.sankakucomplex.com###sp1 > div
+chan.sankakucomplex.com###sank-prestitial:nth-of-type(7) > .backdrop
+chan.sankakucomplex.com###sp1
+www.flickr.com##.spaceball
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+juejin.cn##.recommend-box
+juejin.cn##.article-suspended-panel
+juejin.cn##.visible.unauthorized.main-header
+juejin.cn##.suspension-panel
+juejin.cn##.sidebar
+stackoverflow.com##.js-sticky-leftnav.left-sidebar--sticky-container
+stackoverflow.com###left-sidebar
+stackoverflow.com###sidebar
+blog.csdn.net##.csdn-side-toolbar
+chan.sankakucomplex.com###sank-prestitial:nth-of-type(7)
+tengj.top##.module-mobile-cmt-barrage
+tengj.top###SOHUCS
+tengj.top###scroll
+www.youtube.com##.ytp-autonav-toggle-button-container
+chan.sankakucomplex.com###news-ticker
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(5)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(6)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(7)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(10)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(12)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(13)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(14)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(15)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(16)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(17)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(18)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(19)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(20)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(21)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(22)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(23)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(24)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(25)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(26)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(27)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(28)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(29)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(30)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(31)
+www.pixiv.net##.gunhsQ.jgyytr-1:nth-of-type(8) > .khkYDJ.sc-1nr368f-4
+www.pixiv.net##.ebmRMa.sc-3mzzpc-0
+www.pixiv.net##.hEDKcH.jgyytr-1
+motor.chyangwa.net##img[src="/static/img/qrcode@3x.c9c1472.png"]
+www.artstation.com##.ng-star-inserted.justify-content-center.d-sm-flex.d-none
+www.artstation.com##.js-discount-banner.v1.active-version.bar-pro-increase
+www.artstation.com##.ng-star-inserted > .ng-tns-c1-0
+www.artstation.com##.sticky-block.channels-settings-block
+www.artstation.com##.ng-tns-c5-1.sticky-block.channels-list
+www.artstation.com##.ng-star-inserted.d-sm-flex.d-none.separator:nth-of-type(2)
+www.artstation.com##.ng-star-inserted.d-sm-flex.d-none.separator:nth-of-type(1)
+www.artstation.com###main-menu-nav
+www.artstation.com##.home-subscriptions
+www.artstation.com##.grid-container > .ng-star-inserted:nth-of-type(1) > .ng-tns-c21-3
+www.artstation.com##.ng-star-inserted:nth-of-type(1) > .ng-tns-c17-4
+www.artstation.com##.ng-star-inserted:nth-of-type(1) > .ng-tns-c23-6
+www.artstation.com##.ng-star-inserted:nth-of-type(1) > .ng-tns-c24-7 > .ng-tns-c24-7
+www.artstation.com##.ng-star-inserted:nth-of-type(1) > .ng-tns-c25-8
+www.artstation.com##static-blocks
+www.artstation.com##.separator-sm:nth-of-type(4)
+www.artstation.com##.button-blocks > .separator-sm
+www.artstation.com##hello-world > div
+www.artstation.com##.separator-sm:nth-of-type(8)
+www.artstation.com##.col-xs-3:nth-of-type(1)
+www.artstation.com##.ps-container.artwork-info > .row
+www.artstation.com##.separator:nth-of-type(10)
+www.artstation.com##.separator:nth-of-type(13)
+www.artstation.com##div:nth-of-type(14)
+www.artstation.com##.hidden-sm.hidden-xs.keyboard-shortcuts
+www.artstation.com##small:nth-of-type(2)
+mvnrepository.com###right
+mvnrepository.com###left
+www.bilibili.com##.unlogin-popover-avatar.unlogin-popover
+chan.sankakucomplex.com###has-mail-notice
+pcwarehub.com##.wp-qxonrvymrkl-wrapper
+pcwarehub.com##.active.wp-qxonrvymrkl-blackout
+www.flickr.com###yui_3_16_0_1_1626950300640_3811
+www.pornhub.com##.js-underplayerAd.underplayerAd.clear.hd.vjbak5nmtku.vjbak5nmtkr
+www.pornhub.com##.js-underplayerAd.underplayerAd.clear.hd.osrickkfg8n311u.osrickkfg8n311r
+asiansister.com###cover
+asiansister.com###comment_box
+idol.sankakucomplex.com###news-ticker
+www.youtube.com##.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+outlook.live.com##._1dBL6mV6xRANqjh_Z8BjN6 > ._1fti_QgAzqGWPGlqh_FSvI
+
+! 7/31/2021, 12:12:41 AM https://www.liepin.com/zpitjisuanji/
+www.liepin.com##body > div:nth-of-type(5)
+
+! 7/31/2021, 3:45:22 PM http://jandan.net/pic/MjAyMTA3MzEtMTQ5#comments
+jandan.net##.f.post
+
+! 7/31/2021, 3:52:40 PM http://jandan.net/pic/MjAyMTA3MzEtMTQ5#comments
+jandan.net###comment-4984243 > div > .row > .text > p > .gif-mask
+
+! 8/7/2021, 2:28:31 PM http://jandan.net/pic/MjAyMTA4MDctMTU4#comments
+jandan.net###tucao-gg
+
+
+
 !!! 适用于Ads Killer Plus的屏蔽规则
 stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 stackoverflow.com###left-sidebar
@@ -119,4 +255,24 @@ asiansister.com###comment_box
 idol.sankakucomplex.com###news-ticker
 www.youtube.com##.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
 outlook.live.com##._1dBL6mV6xRANqjh_Z8BjN6 > ._1fti_QgAzqGWPGlqh_FSvI
+
+! 7/31/2021, 12:12:41 AM https://www.liepin.com/zpitjisuanji/
+www.liepin.com##body > div:nth-of-type(5)
+
+! 7/31/2021, 3:45:22 PM http://jandan.net/pic/MjAyMTA3MzEtMTQ5#comments
+jandan.net##.f.post
+
+! 7/31/2021, 3:52:40 PM http://jandan.net/pic/MjAyMTA3MzEtMTQ5#comments
+jandan.net###comment-4984243 > div > .row > .text > p > .gif-mask
+
+! 8/7/2021, 2:28:31 PM http://jandan.net/pic/MjAyMTA4MDctMTU4#comments
+jandan.net###tucao-gg
+
+! 2021-08-09 http://m.bishaqi.cn
+||m.bishaqi.cn/alipay.jpg$image
+
+#context-setDesktopBackground,
+
+! 2021-08-10 https://giphy.com
+giphy.com##.bottom.shape-banner.didomi-notice-banner.didomi-banner-notice-info-type.didomi-regular-notice
 
