@@ -24,7 +24,7 @@
 ## 个人采集的网页元素屏蔽规则
 ### 适用于使用 *AdBlock 语法* 的浏览器插件
 
-直接在设置->My Filter中导入文件*[My Filter.txt][1] 或 [大陆友好链接][2]*即可
+直接在设置->My Filter中导入文件 [My Filter.txt][1] 或 [大陆友好链接][2] 即可
 
 [1]: https://github.com/isNijikawa/Universal-Web-Filter-rules/blob/main/uBlock%20Origin/My%20Filter.txt
 [2]: https://cdn.jsdelivr.net/gh/isNijikawa/Universal-Web-Filter-rules@main/uBlock%20Origin/My%20Filter.txt
