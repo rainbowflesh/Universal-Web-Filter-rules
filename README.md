@@ -7,16 +7,11 @@
 
 因为体积过大uBlackList无法当作订阅处理, 所以请手动导入*yetAnother.txt*.
 
-订阅链接👇
-> https://github.com/isNijikawa/One-Of-Mega-uBlackList-List/blob/main/stupidCyberUtopia.txt
+订阅链接👇 
+(不推荐直接订阅, 因为这玩意儿太大了, 每次想要添加屏蔽网站插件要加载十万年)
 > 
-> 大陆友好链接👇
 > 
-> https://cdn.jsdelivr.net/gh/isNijikawa/One-Of-Mega-uBlackList-List@main/stupidCyberUtopia.txt
 > 
-> 大陆友好下载*yetAnother.txt*链接👇
-> 
-> https://cdn.jsdelivr.net/gh/isNijikawa/One-Of-Mega-uBlackList-List@main/yetAnother.txt
 
 同时推荐订阅下面链接的内容
 > https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt	
@@ -26,4 +21,6 @@
 ## 个人采集的网页元素屏蔽规则
 ### 适用于使用 *AdBlock 语法* 的浏览器插件
 
-直接在My Filter中导入文件*My Filter*即可
+直接在设置->My Filter中导入文件*[My Filter.txt][1]*即可
+
+[1]: 
