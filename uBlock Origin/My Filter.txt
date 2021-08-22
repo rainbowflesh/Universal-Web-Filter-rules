@@ -123,17 +123,6 @@ outlook.live.com##._1dBL6mV6xRANqjh_Z8BjN6 > ._1fti_QgAzqGWPGlqh_FSvI
 ! 7/31/2021, 12:12:41 AM https://www.liepin.com/zpitjisuanji/
 www.liepin.com##body > div:nth-of-type(5)
 
-! 7/31/2021, 3:45:22 PM http://jandan.net/pic/MjAyMTA3MzEtMTQ5#comments
-jandan.net##.f.post
-
-! 7/31/2021, 3:52:40 PM http://jandan.net/pic/MjAyMTA3MzEtMTQ5#comments
-jandan.net###comment-4984243 > div > .row > .text > p > .gif-mask
-
-! 8/7/2021, 2:28:31 PM http://jandan.net/pic/MjAyMTA4MDctMTU4#comments
-jandan.net###tucao-gg
-
-
-
 !!! 适用于Ads Killer Plus的屏蔽规则
 stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 stackoverflow.com###left-sidebar
@@ -247,7 +236,7 @@ www.bilibili.com##.unlogin-popover-avatar.unlogin-popover
 chan.sankakucomplex.com###has-mail-notice
 pcwarehub.com##.wp-qxonrvymrkl-wrapper
 pcwarehub.com##.active.wp-qxonrvymrkl-blackout
-www.flickr.com###yui_3_16_0_1_1626950300640_3811
+www.flickr.com###yui_3_16_0_1_1626950300640_3811jandan
 www.pornhub.com##.js-underplayerAd.underplayerAd.clear.hd.vjbak5nmtku.vjbak5nmtkr
 www.pornhub.com##.js-underplayerAd.underplayerAd.clear.hd.osrickkfg8n311u.osrickkfg8n311r
 asiansister.com###cover
@@ -259,15 +248,6 @@ outlook.live.com##._1dBL6mV6xRANqjh_Z8BjN6 > ._1fti_QgAzqGWPGlqh_FSvI
 ! 7/31/2021, 12:12:41 AM https://www.liepin.com/zpitjisuanji/
 www.liepin.com##body > div:nth-of-type(5)
 
-! 7/31/2021, 3:45:22 PM http://jandan.net/pic/MjAyMTA3MzEtMTQ5#comments
-jandan.net##.f.post
-
-! 7/31/2021, 3:52:40 PM http://jandan.net/pic/MjAyMTA3MzEtMTQ5#comments
-jandan.net###comment-4984243 > div > .row > .text > p > .gif-mask
-
-! 8/7/2021, 2:28:31 PM http://jandan.net/pic/MjAyMTA4MDctMTU4#comments
-jandan.net###tucao-gg
-
 ! 2021-08-09 http://m.bishaqi.cn
 ||m.bishaqi.cn/alipay.jpg$image
 
@@ -275,4 +255,27 @@ jandan.net###tucao-gg
 
 ! 2021-08-10 https://giphy.com
 giphy.com##.bottom.shape-banner.didomi-notice-banner.didomi-banner-notice-info-type.didomi-regular-notice
+
+jandan! 2021-08-13 https://chan.sankakucomplex.com
+||chan.sankakucomplex.com/javascripts/sp/en/plus.html$subdocument
+
+! 2021-08-15 https://www.pixiv.net
+www.pixiv.net##.jqJjEB.sc-4nj1pr-5
+
+! 2021-08-20 https://javrank.com
+javrank.com###asg-push-frame2
+
+! 2021-08-20 https://rule34video.com
+rule34video.com##.thumb.spot-thumb
+
+! 2021-08-20 https://www.pixiv.net
+www.pixiv.net##.bscXxC.sc-1u16qqh-7.sc-10r3j8-0.sc-171jvz-3.sc-171jvz-1
+
+! 2021-08-21 http://onlinemovie.vip
+onlinemovie.vip##.show.fade.modal
+onlinemovie.vip##.show.fade.modal-backdrop
+
+! 2021-08-22 https://gitee.com
+gitee.com##.people-image
+gitee.com##.visible.transition.menu
 
