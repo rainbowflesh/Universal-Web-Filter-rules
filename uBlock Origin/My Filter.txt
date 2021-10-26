@@ -256,7 +256,6 @@ www.liepin.com##body > div:nth-of-type(5)
 ! 2021-08-10 https://giphy.com
 giphy.com##.bottom.shape-banner.didomi-notice-banner.didomi-banner-notice-info-type.didomi-regular-notice
 
-jandan! 2021-08-13 https://chan.sankakucomplex.com
 ||chan.sankakucomplex.com/javascripts/sp/en/plus.html$subdocument
 
 ! 2021-08-15 https://www.pixiv.net
@@ -278,4 +277,45 @@ onlinemovie.vip##.show.fade.modal-backdrop
 ! 2021-08-22 https://gitee.com
 gitee.com##.people-image
 gitee.com##.visible.transition.menu
+
+! 2021-08-25 https://www.pexels.com
+www.pexels.com##.rd__modal__overlay--centered.rd__modal__overlay.rd__modal__content-container
+#||www.zhangxinxu.com/wordpress/wp-content/themes/default/script-min.js
+##body >*:has-text(/Adblock/gi)
+
+! 2021-08-25 https://www.zhangxinxu.com
+www.zhangxinxu.com###shinkSlide
+
+! 2021-08-26 https://unix.stackexchange.com
+unix.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-09-16 https://createdpro.com
+createdpro.com##.fixed.side-nav
+
+! 2021-09-17 https://fanyi.youdao.com
+fanyi.youdao.com##.inside__products
+fanyi.youdao.com##.fanyi__nav
+fanyi.youdao.com##.side__nav
+fanyi.youdao.com##.fanyi__footer
+fanyi.youdao.com##.doc__upload--con
+
+! 2021-09-19 https://unsplash.com
+unsplash.com##._2vZEJ
+unsplash.com##._1rBwv
+
+! 2021-09-27 https://www.bilibili.com
+www.bilibili.com##.danmaku-box
+
+! 2021-10-02 https://my.vultr.com
+my.vultr.com##.sticky-cta__button
+
+! 2021-10-13 https://www.pixiv.net
+www.pixiv.net##div.sc-jgyytr-1:nth-of-type(5)
+
+! 2021-10-16 https://www.paradoxplaza.com
+www.paradoxplaza.com###cookies-info
+
+! 2021-10-17 https://www.pixiv.net
+www.pixiv.net##div.sc-jgyytr-1:nth-of-type(6)
+www.pixiv.net##div.sc-jgyytr-1:nth-of-type(8)
 
