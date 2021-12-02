@@ -319,3 +319,17 @@ www.paradoxplaza.com###cookies-info
 www.pixiv.net##div.sc-jgyytr-1:nth-of-type(6)
 www.pixiv.net##div.sc-jgyytr-1:nth-of-type(8)
 
+! 2021-10-30 https://f95zone.to
+f95zone.to##.block--category.uix_nodeList.block
+
+! 2021-11-14 https://v2ex.com
+v2ex.com###TopicsHot
+
+! 2021-11-22 https://www.bilibili.com
+www.bilibili.com##.common
+
+! 2021-11-27 https://www.lanhusoft.com
+www.lanhusoft.com##.sb_nav
+www.lanhusoft.com##.onlinebox_1_2.onlinebox_1.onlinebox
+www.lanhusoft.com##.autoMenu
+
