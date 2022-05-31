@@ -20,7 +20,7 @@
 
 > <https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt>
 
-> <https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/blob/master/uBlacklist_subscription.txt>
+> <https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt>
 
 # Universal Web Filter rules
 
@@ -31,11 +31,11 @@
 直接在设置->My Filter 中导入文件 [My Filter.txt][3] 或 [大陆友好链接][7] 即可
 直接在设置->My Rules 中导入文件 [My Rules.txt][4] 或 [大陆友好链接][8] 即可
 
-[1]: <https://github.com/isNijikawa/Universal-Web-Filter-rules/blob/main/uBlackList/main.txt>
-[2]: <https://github.com/isNijikawa/Universal-Web-Filter-rules/blob/main/uBlackList/HugeList.txt>
-[3]: <https://github.com/isNijikawa/Universal-Web-Filter-rules/blob/main/uBlockOrigin/MyFilter.txt>
-[4]: <https://github.com/isNijikawa/Universal-Web-Filter-rules/blob/main/uBlockOrigin/MyRules.txt>
-[5]: <https://cdn.jsdelivr.net/gh/isNijikawa/Universal-Web-Filter-rules@main/uBlackList/main.txt>
-[6]: <https://cdn.jsdelivr.net/gh/isNijikawa/Universal-Web-Filter-rules@main/uBlackList/HugeList.txt>
-[7]: <https://cdn.jsdelivr.net/gh/isNijikawa/Universal-Web-Filter-rules@main/uBlockOrigin/MyFilter.txt>
-[8]: <https://cdn.jsdelivr.net/gh/isNijikawa/Universal-Web-Filter-rules@main/uBlockOrigin/MyRules.txt>
+[1]: <https://raw.githubusercontent.com/rainbowflesh/Universal-Web-Filter-rules/main/uBlackList/main.txt>
+[2]: <https://raw.githubusercontent.com/rainbowflesh/Universal-Web-Filter-rules/main/uBlackList/HugeList.txt>
+[3]: <https://raw.githubusercontent.com/rainbowflesh/Universal-Web-Filter-rules/main/uBlockOrigin/MyFilter.txt>
+[4]: <https://raw.githubusercontent.com/rainbowflesh/Universal-Web-Filter-rules/main/uBlockOrigin/MyRules.txt>
+[5]: <https://cdn.jsdelivr.net/gh/rainbowflesh/Universal-Web-Filter-rules@main/uBlackList/main.txt>
+[6]: <https://cdn.jsdelivr.net/gh/rainbowflesh/Universal-Web-Filter-rules@main/uBlackList/HugeList.txt>
+[7]: <https://cdn.jsdelivr.net/gh/rainbowflesh/Universal-Web-Filter-rules@main/uBlockOrigin/MyFilter.txt>
+[8]: <https://cdn.jsdelivr.net/gh/rainbowflesh/Universal-Web-Filter-rules@main/uBlockOrigin/MyRules.txt>
