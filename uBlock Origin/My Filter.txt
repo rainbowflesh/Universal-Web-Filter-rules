@@ -3,7 +3,6 @@ stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.s
 stackoverflow.com###left-sidebar
 stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
 blog.csdn.net##.left-toolbox
-www.zhihu.com##.Pc-word:nth-of-type(34) > .Pc-word-card
 www.cnblogs.com##.forpc.aliyun.bannerbar
 www.cnblogs.com###cnblogs_b1
 cet4.koolearn.com###ztcgg
@@ -118,7 +117,6 @@ asiansister.com###cover
 asiansister.com###comment_box
 idol.sankakucomplex.com###news-ticker
 www.youtube.com##.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
-outlook.live.com##._1dBL6mV6xRANqjh_Z8BjN6 > ._1fti_QgAzqGWPGlqh_FSvI
 
 ! 7/31/2021, 12:12:41 AM https://www.liepin.com/zpitjisuanji/
 www.liepin.com##body > div:nth-of-type(5)
@@ -128,7 +126,6 @@ stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.s
 stackoverflow.com###left-sidebar
 stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
 blog.csdn.net##.left-toolbox
-www.zhihu.com##.Pc-word:nth-of-type(34) > .Pc-word-card
 www.cnblogs.com##.forpc.aliyun.bannerbar
 www.cnblogs.com###cnblogs_b1
 cet4.koolearn.com###ztcgg
@@ -243,7 +240,6 @@ asiansister.com###cover
 asiansister.com###comment_box
 idol.sankakucomplex.com###news-ticker
 www.youtube.com##.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
-outlook.live.com##._1dBL6mV6xRANqjh_Z8BjN6 > ._1fti_QgAzqGWPGlqh_FSvI
 
 ! 7/31/2021, 12:12:41 AM https://www.liepin.com/zpitjisuanji/
 www.liepin.com##body > div:nth-of-type(5)
@@ -303,9 +299,6 @@ fanyi.youdao.com##.doc__upload--con
 unsplash.com##._2vZEJ
 unsplash.com##._1rBwv
 
-! 2021-09-27 https://www.bilibili.com
-www.bilibili.com##.danmaku-box
-
 ! 2021-10-02 https://my.vultr.com
 my.vultr.com##.sticky-cta__button
 
@@ -332,4 +325,124 @@ www.bilibili.com##.common
 www.lanhusoft.com##.sb_nav
 www.lanhusoft.com##.onlinebox_1_2.onlinebox_1.onlinebox
 www.lanhusoft.com##.autoMenu
+
+! 2021-12-09 https://www.huaqiutong.com
+www.huaqiutong.com##div.ec--cs-wrapper:nth-of-type(5)
+www.huaqiutong.com##.ec--cs-invite-wrapper
+
+! 2021-12-15 https://zs.symbolab.com
+zs.symbolab.com##.featherlight-content
+zs.symbolab.com##.featherlight-iframe.featherlight
+zs.symbolab.com##.nl-cookiepolicy
+zs.symbolab.com##body > a
+zs.symbolab.com##.print-hide.sidebar-content
+
+! 2021-12-16 https://www.bilibili.com
+www.bilibili.com##.palette-button-wrap
+
+! 2021-12-18 https://www.blendermarket.com
+www.blendermarket.com###CybotCookiebotDialog
+
+! 2021-12-18 https://www.v2ex.com
+www.v2ex.com###my-recent-topics
+
+! 2022-01-02 https://docs.cfw.lbyczf.com
+docs.cfw.lbyczf.com##.list
+
+! 2022-01-04 https://beta.sankakucomplex.com
+beta.sankakucomplex.com##.MuiPaper-rounded.MuiPaper-elevation1.jss1006.MuiCard-root.MuiPaper-root
+
+! 2022-01-10 https://www.cecebo.com
+www.cecebo.com##.play_box_right
+
+! 2022-01-10 https://www.v2ex.com
+www.v2ex.com##a.tab:nth-of-type(4)
+www.v2ex.com##a.tab:nth-of-type(6)
+
+! 2022-01-12 https://www.v2ex.com
+www.v2ex.com##a.tab:nth-of-type(8)
+
+! 2022-01-22 https://wx.mail.qq.com
+wx.mail.qq.com##.sidebar_featureFolder.sidebar_nav
+
+! 2022-02-02 https://tieba.baidu.com
+tieba.baidu.com##.tieba-login-wrapper
+tieba.baidu.com##.tieba-login-background
+
+! 2022-02-09 https://duckduckgo.com
+duckduckgo.com##.header--text_promo.text_promo
+duckduckgo.com##.social.header__label.header--aside__social.header--aside__item
+duckduckgo.com##.header__label.showcase.header--aside__item
+
+! 2022-02-10 https://www.extrabux.com
+www.extrabux.com##.ccpabar
+
+! 2022-02-10 https://old.reddit.com
+old.reddit.com##div.spacer:nth-of-type(5)
+
+! 2022-02-18 https://chan.sankakucomplex.com
+||d.otaserve.net/r/www/d/afr.php?zoneid=12&cb=$subdocument
+chan.sankakucomplex.com##div.close-btn:nth-of-type(1)
+chan.sankakucomplex.com##.backdrop
+chan.sankakucomplex.com##div#sank-prestitial:nth-of-type(8)
+
+! 2022-02-19 https://chan.sankakucomplex.com
+chan.sankakucomplex.com##div#sank-prestitial:nth-of-type(9)
+
+! 2022-02-22 https://chan.sankakucomplex.com
+chan.sankakucomplex.com##div#sank-prestitial:nth-of-type(6)
+
+! 2022-02-23 https://duckduckgo.com
+duckduckgo.com##.badge-link--newsletter.badge-link--thumbnail.js-badge-link.badge-link--serp.badge-link
+
+! 2022-02-28 https://www.gamersky.com
+www.gamersky.com##.Mid2_R
+
+! 2022-03-16 https://unicode-table.com
+unicode-table.com##.cookie__wrapper
+
+! 2022-03-29 https://pan.baidu.com
+pan.baidu.com##.nd-upload > .nd-dialog-common-header.u-dialog__wrapper
+pan.baidu.com##.v-modal
+
+! 2022-04-03 https://www.startpage.com
+www.startpage.com##.widget-install-privacy-protect-container
+www.startpage.com##.privacy-please__container
+
+! 2022-04-04 https://www.qwant.com
+www.qwant.com##footer
+
+! 2022-04-10 https://www.symbolab.com
+www.symbolab.com###solution_right
+
+! 2022-04-12 https://detail.zol.com.cn
+detail.zol.com.cn###wenda
+detail.zol.com.cn###shipin
+detail.zol.com.cn###pingcezixun
+detail.zol.com.cn###cainixihuan
+detail.zol.com.cn###rementuijian
+detail.zol.com.cn###zolapp-float-qrcode
+detail.zol.com.cn##.side
+detail.zol.com.cn##.clearfix.product-detail
+detail.zol.com.cn##.local-buy-link
+
+! 2022-04-22 https://www.sioe.cn
+www.sioe.cn##.foot
+www.sioe.cn##.title
+
+! 2022-04-22 https://metager.org
+metager.org###quicktips
+
+! 2022-04-24 https://duckduckgo.com
+duckduckgo.com##.feedback-btn.btn
+
+! 2022-04-30 https://sisterasian.com
+sisterasian.com###vid_overlay
+
+! 2022-05-05 https://helpdeskgeek.com
+helpdeskgeek.com##.et_bloom_animation_fadein.et_bloom_form_text_dark.et_bloom_rounded.et_bloom_form_bottom.et_bloom_popup_container.et_bloom_form_container
+helpdeskgeek.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
+
+! 2022-05-26 https://jandan.net
+jandan.net##ul:nth-of-type(2)
 
