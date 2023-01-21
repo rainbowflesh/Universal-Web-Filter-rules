@@ -446,3 +446,128 @@ helpdeskgeek.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin
 ! 2022-05-26 https://jandan.net
 jandan.net##ul:nth-of-type(2)
 
+! 2022-06-29 https://www.zhipin.com
+www.zhipin.com##.container
+www.zhipin.com##.jconfirm-white.jconfirm
+
+! 2022-07-07 https://www.w3cschool.cn
+www.w3cschool.cn##.widget-body
+www.w3cschool.cn###header_item
+www.w3cschool.cn##.pro-title.portlet-title
+www.w3cschool.cn##.nav-item
+www.w3cschool.cn##.sidebar-pro-nav
+
+! 2022-07-10 http://www.atguigu.com
+www.atguigu.com###div_company_mini
+
+! 2022-07-10 https://www.w3cschool.cn
+www.w3cschool.cn##.vip-area
+
+! 2022-07-10 https://zhidao.baidu.com
+zhidao.baidu.com##.task-list-button
+zhidao.baidu.com##.jump-top-box
+zhidao.baidu.com##.aria-div
+zhidao.baidu.com##.ff-arial.ask-info.f-aid.line
+zhidao.baidu.com##.question-number-text-chain
+zhidao.baidu.com###j-nav-menu-container
+zhidao.baidu.com##.wgt-footer-new
+
+! 2022-07-11 https://blog.csdn.net
+blog.csdn.net##.passport-login-container
+
+! 2022-07-11 https://anime1.me
+anime1.me###notify
+
+! 2022-07-15 https://www.dandanzan.com
+www.dandanzan.com###pl
+
+! 2022-07-17 https://www.nowcoder.com
+www.nowcoder.com##.el-dialog__wrapper
+www.nowcoder.com##.v-modal
+www.nowcoder.com##.mode-tips-popover.el-popper.el-popover
+
+! 2022-08-06 https://blog.csdn.net
+blog.csdn.net##.toolbar-container
+
+! 2022-08-12 https://helpdeskgeek.com
+helpdeskgeek.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_2.et_bloom_resize.et_bloom_optin.et_bloom_popup
+
+! 2022-09-02 https://b.lenovo.com.cn
+b.lenovo.com.cn##.sort
+
+! 2022-09-25 https://www.luscious.net
+www.luscious.net##.o-modal-drawer
+www.luscious.net##.o-modal-overlay
+
+! 2022-09-25 https://blog.reimu.net
+blog.reimu.net###media_image-9
+
+! 2022-09-25 https://hentai-cosplays.com
+hentai-cosplays.com##div.left_sideber_body:nth-of-type(2)
+
+! 2022-10-06 https://soundcloud.com
+soundcloud.com##.ot-fade-in.onetrust-pc-dark-filter
+
+! 2022-10-14 https://www.windowscentral.com
+www.windowscentral.com##.exit-intent__background.exit-intent
+
+! 2022-10-14 https://unsplash.com
+||plus.unsplash.com/premium_photo-*$image
+
+! 2022-10-27 https://hentai-cosplays.com
+hentai-cosplays.com##div.icon-overlay:nth-of-type(1)
+
+! 2022-10-29 https://live.bilibili.com
+live.bilibili.com##div.danmaku-item.chat-item:nth-of-type(97)
+live.bilibili.com##.chat-history-panel
+live.bilibili.com##.z-aside-area.border-box.p-absolute.aside-area
+
+! 2022-11-06 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.GoodsRecommendCard
+
+! 2022-11-11 https://www.koolearn.com
+||un.koolearn.com/ad/show$subdocument
+www.koolearn.com###public-header-wrap
+||un.koolearn.com/ad/show*$subdocument
+www.koolearn.com##.i-footer
+
+! 2022-11-11 https://www.artstation.com
+www.artstation.com##.ng-tns-c4-1.sticky-block.channels-list
+
+! 2022-11-18 https://blog.reimu.net
+blog.reimu.net##.category-indie.hentry.sticky.format-standard.status-publish.type-post.post.post-10309
+
+! 2022-11-19 https://unsplash.com
+unsplash.com##.fvlUC
+
+! 2022-11-28 https://hentai-cosplays.com
+hentai-cosplays.com###inline_search_bottom_1
+hentai-cosplays.com###inline_search_bottom_2
+hentai-cosplays.com###social_button
+hentai-cosplays.com##div#post_list_title:nth-of-type(3)
+hentai-cosplays.com##div#post_list_title:nth-of-type(5)
+hentai-cosplays.com##p:nth-of-type(3)
+
+! 2022-11-30 https://hentai-cosplays.com
+hentai-cosplays.com##div#post_list_title:nth-of-type(6)
+hentai-cosplays.com###inline_search_bottom_3
+
+! 2022-11-30 https://exhentai.org
+exhentai.org###cdiv
+
+! 2022-11-30 https://nitroflare.com
+||nitroflare.com/img/*$image
+
+! 2022-12-01 https://www.terabox.com
+www.terabox.com##.drainage
+www.terabox.com##.action-bar-view
+www.terabox.com##.seo-banner-box
+www.terabox.com##.u-carousel--horizontal.u-carousel.notification-wrap
+
+! 2022-12-07 https://appuals.com
+appuals.com##.wptp
+
+! 2023-01-08 https://rog.asus.com
+rog.asus.com##.ProductSpecTopPanel__compareTopWrapper__2kKkQ.ProductSpecTopPanel__compareTopContainerScroll__3WNh6.compareTopPanel
+rog.asus.com##.ProductSpecTopPanel__scrolled__3xrLr.ProductSpecTopPanel__slideDown__CRSu7.ProductSpecTopPanel__compareTopContainer__6UVb4
+

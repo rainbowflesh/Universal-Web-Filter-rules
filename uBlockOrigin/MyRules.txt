@@ -34,8 +34,6 @@ no-scripting: start.spring.io false
 no-scripting: steamcommunity.com false
 no-scripting: store.steampowered.com false
 no-scripting: marketplace.visualstudio.com false
-no-strict-blocking: lenovo.evyy.net true
-no-strict-blocking: syndication.realsrv.com true
 behind-the-scene * * noop
 behind-the-scene * 1p-script noop
 behind-the-scene * 3p noop
