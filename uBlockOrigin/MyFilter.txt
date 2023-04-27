@@ -343,9 +343,6 @@ www.bilibili.com##.palette-button-wrap
 ! 2021-12-18 https://www.blendermarket.com
 www.blendermarket.com###CybotCookiebotDialog
 
-! 2021-12-18 https://www.v2ex.com
-www.v2ex.com###my-recent-topics
-
 ! 2022-01-02 https://docs.cfw.lbyczf.com
 docs.cfw.lbyczf.com##.list
 
@@ -354,13 +351,6 @@ beta.sankakucomplex.com##.MuiPaper-rounded.MuiPaper-elevation1.jss1006.MuiCard-r
 
 ! 2022-01-10 https://www.cecebo.com
 www.cecebo.com##.play_box_right
-
-! 2022-01-10 https://www.v2ex.com
-www.v2ex.com##a.tab:nth-of-type(4)
-www.v2ex.com##a.tab:nth-of-type(6)
-
-! 2022-01-12 https://www.v2ex.com
-www.v2ex.com##a.tab:nth-of-type(8)
 
 ! 2022-01-22 https://wx.mail.qq.com
 wx.mail.qq.com##.sidebar_featureFolder.sidebar_nav
@@ -570,4 +560,64 @@ appuals.com##.wptp
 ! 2023-01-08 https://rog.asus.com
 rog.asus.com##.ProductSpecTopPanel__compareTopWrapper__2kKkQ.ProductSpecTopPanel__compareTopContainerScroll__3WNh6.compareTopPanel
 rog.asus.com##.ProductSpecTopPanel__scrolled__3xrLr.ProductSpecTopPanel__slideDown__CRSu7.ProductSpecTopPanel__compareTopContainer__6UVb4
+
+! 2023-02-03 https://baike.baidu.com
+baike.baidu.com##.btn-list
+baike.baidu.com##.top-tool
+
+! 2023-02-07 https://www.4funbox.com
+www.4funbox.com###app
+
+! 2023-02-11 https://www.fossic.org
+www.fossic.org##.plugin.focus
+
+! 2023-02-21 https://www.mirrobox.com
+www.mirrobox.com###app
+
+! 2023-02-26 https://www.bilibili.com
+www.bilibili.com##.bili-layout
+www.bilibili.com##.bili-footer
+
+! 2023-02-27 https://imgcup.com
+imgcup.com###navigation > .container
+imgcup.com##.menu-item-padding.menu-style-2.header-2.header-layout-bottom
+
+! 2023-03-04 https://www.3dmgame.com
+www.3dmgame.com##.Content_R
+
+! 2023-03-06 https://www.artstation.com
+www.artstation.com##.ng-star-inserted.slick-slider.slick-initialized.ng-trigger-animateBlocks.ng-trigger.left-padding.prev-disabled.ng-tns-c95-1.top-row-items > .draggable.slick-list > .slick-track
+www.artstation.com##app-root > .ng-star-inserted > .ng-star-inserted > .ng-star-inserted.ng-tns-c95-1
+www.artstation.com##.ng-star-inserted.ng-tns-c108-0.channels-bar-list
+
+! 2023-03-14 https://www.speedtest.cn
+www.speedtest.cn##.sus-window
+
+! 2023-03-18 https://pan.baidu.com
+pan.baidu.com##.nd-operate-guidance__body
+pan.baidu.com##.nd-operate-guidance
+pan.baidu.com##.nd-dialog-workspace--bg.nd-dialog-common-header.u-dialog__wrapper
+pan.baidu.com##.nd-aside-wp-block
+pan.baidu.com##.wp-s-header
+
+! 2023-03-19 https://v2ex.com
+v2ex.com##div.item.cell:has(a[href^="/go/promotions"])
+v2ex.com##div.item.cell:has(a[href^="gpt"])
+
+! 2023-03-22 https://bestprettygirl.com
+bestprettygirl.com##article:matches-attr(class="/aimodel/")
+bestprettygirl.com##article:matches-attr(class="/kelagirls/")
+bestprettygirl.com##article:matches-attr(class="/xiaoyu/")
+bestprettygirl.com##article:matches-attr(class="/mussgirl/")
+bestprettygirl.com##article:matches-attr(class="/xiuren/")
+bestprettygirl.com##article:matches-attr(class="/yituyu/")
+bestprettygirl.com##article:matches-attr(class="/imiss/")
+bestprettygirl.com##article:matches-attr(class="/iess/")
+bestprettygirl.com##article:matches-attr(class="/huayangshow/")
+bestprettygirl.com##article:matches-attr(class="/feilin/")
+bestprettygirl.com##article:matches-attr(class="/beautyleg/")
+bestprettygirl.com##article:matches-attr(class="/xingyan/")
+
+! 2023-04-25 https://www.aliyundrive.com
+www.aliyundrive.com##.share-list-banner--1E8Jr
 
